@@ -13,6 +13,8 @@ You can use the email associated with my GitHub profile or message me at:
 <a href="https://www.linkedin.com/in/kristopher-eaton-ab943ba9"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </div>
 
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherEaton&layout=compact&theme=vision-friendly-dark)]
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" padding-left="10%"/>&nbsp;
