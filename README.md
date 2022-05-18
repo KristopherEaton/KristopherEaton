@@ -6,8 +6,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🌱 I’m currently still learning the mysteries of Angular and have over a year of experience with Angular 8. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
 - 👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as React or Angular are what interest me.  
-- ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherEaton&layout=compact&theme=vision-friendly-dark)](https://github.com/KristopherEaton/)
+
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,6 +20,11 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 &nbsp;
+
+- ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherEaton&layout=compact&theme=vision-friendly-dark)](https://github.com/KristopherEaton/)
+&nbsp;
+
 
 - 📫 How to reach me: ...
 You can use the email associated with my GitHub profile or message me at:
