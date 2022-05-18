@@ -7,8 +7,14 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as React or Angular are what interest me.  
 
+- 📫 How to reach me: ...
+You can use the email associated with my GitHub profile or message me at:
+<div id="badges">
+<a href="https://www.linkedin.com/in/kristopher-eaton-ab943ba9"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+</div>
+
 - ### :hammer_and_wrench: Languages and Tools :
-<div style="padding-left: 20%;">
+<div style="margin-left: 20%;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -21,12 +27,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 
-- 📫 How to reach me: ...
-You can use the email associated with my GitHub profile or message me at:
-<div id="badges">
-<a href="https://www.linkedin.com/in/kristopher-eaton-ab943ba9"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 
-</div>
 
 
 <!-- Here are some ideas to get you started:
