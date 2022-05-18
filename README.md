@@ -22,7 +22,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 &nbsp;
 
 - ### :fire: My Stats :
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherEaton&layout=compact&theme=vision-friendly-dark)](https://github.com/KristopherEaton/)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristopherEaton&layout=compact&theme=vision-friendly-dark)](https://github.com/KristopherEaton/)
 &nbsp;
 
 
