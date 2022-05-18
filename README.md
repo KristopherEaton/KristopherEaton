@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goodyear, AZ.
 
-📫 How to reach me: ...
+- 🔭 I’m currently working as a Front-End Developer learning to build applications in REACT and am amazed at fast something can be created with this Framework! 
+
+- 📫 How to reach me: ...
 You can use the email associated with my GitHub profile or message me at:
 <div id="badges">
 <a href="https://www.linkedin.com/in/kristopher-eaton-ab943ba9"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
