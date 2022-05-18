@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goodyear, AZ.
 
-- 🔭 I’m currently employed as a full-time Front-End Developer learning to build applications in REACT and am amazed at fast something can be created with this Framework! 
+- 🔭 I’m currently employed as a developer full-time learning to build applications in REACT and am amazed at fast something can be created with this Framework! 
 
 - 🌱 I’m currently still learning the mysteries of Angular and have over a year of experience with Angular 8. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
