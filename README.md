@@ -5,7 +5,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - 🌱 I’m currently still learning the mysteries of Angular and have over a year of experience with Angular 8. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
-- 👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with Frameworks such as React or Angular are what interest me.  
+- 👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as React or Angular are what interest me.  
 
 - 📫 How to reach me: ...
 You can use the email associated with my GitHub profile or message me at:
