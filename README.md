@@ -15,7 +15,7 @@ You can use the email associated with my GitHub profile or message me at:
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div style="margin-left: 20%;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" padding-left='10%'/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
