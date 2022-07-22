@@ -1,11 +1,11 @@
 ### Howdy there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goodyear, AZ.
 
-🔭 I’m currently employed as a developer full-time learning to build applications in REACT and am amazed at fast something can be created with this library! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
+🔭 I’m currently employed as a developer full-time learning to build applications in Angular! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
 
 🌱 While I’m currently still learning the mysteries of JavaScript( and TypeScript!), I do have over a year of experience with Angular 8. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
-👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as Angular or a library such as React are what interest me.  
+👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as Angular are what interest me. Maybe Vue.js in the future?
 
 ### :hammer_and_wrench: Frameworks, Libraries, Languages and Tools :
 <div>
