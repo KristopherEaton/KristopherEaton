@@ -1,5 +1,5 @@
 ### Howdy there 👋
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Goodyear, AZ.
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Phoenix, AZ.
 
 🔭 I’m currently employed as a developer full-time learning to build applications in Angular! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
 
