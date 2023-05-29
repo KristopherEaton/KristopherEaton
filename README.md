@@ -1,5 +1,5 @@
 <div>
-  <img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-1024x225.jpg" title="Code" alt="coding-image" width="100%" height="100%"/>
+  <img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591-1024x225.jpg" title="Code" alt="coding-image" width="100%" height="100%"/>
   </div>
 
 ### Howdy there 👋
