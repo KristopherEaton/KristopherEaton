@@ -33,5 +33,9 @@ You can use the email associated with my GitHub profile or message me at:
 </div>
 
 <div>Private Account stats:</div>
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristopherEaton)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KristopherEaton)](https://git.io/streak-stats)
+</div>
