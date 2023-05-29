@@ -5,11 +5,11 @@
 ### Howdy there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Phoenix, AZ.
 
-🔭 I’m currently employed as a developer full-time building applications in Angular and React! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
+🔭 I’m currently employed as a developer full-time building applications in React and Angular! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
 
-🌱 While I’m currently still learning the mysteries of JavaScript( and TypeScript!), I do have a bit of experience with Angular. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
+🌱 While I’m always continuing to learn the mysteries of JavaScript and TypeScript, I have a bit of experience with both React and Angular. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
-👯 I’m looking to collaborate on anything web related really. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with frameworks such as Angular are what interest me. Maybe Vue.js in the future?
+👯 I’m looking to collaborate on anything web related. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with libraries/frameworks such as React or Angular are what interest me. Maybe Vue.js in the future?
 
 ### :hammer_and_wrench: Frameworks, Libraries, Languages and Tools :
 <div>
