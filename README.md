@@ -32,4 +32,4 @@ You can use the email associated with my GitHub profile or message me at:
 </div>
 </div>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristopherEaton)](https://github.com/anuraghazra/github-readme-stats)
