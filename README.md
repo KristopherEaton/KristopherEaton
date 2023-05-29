@@ -1,3 +1,7 @@
+<div>
+  <img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-1024x427.jpg" title="Code" alt="coding-image" width="100%" height="100%"/>
+  </div>
+
 ### Howdy there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Phoenix, AZ.
 
@@ -32,6 +36,4 @@ You can use the email associated with my GitHub profile or message me at:
 </div>
 </div>
 
-<div>
-  <img src="https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?w=1380&t=st=1685381457~exp=1685382057~hmac=0b644971b78a94a06f2b988d2ce21033487710744de405433fa70a0f843f6907" title="Code" alt="coding-image" width="100%" height="100%"/>
-  </div>
+
