@@ -5,7 +5,7 @@
 ### Howdy there 👋
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Phoenix, AZ.
 
-🔭 I’m currently employed as a developer full-time learning to build applications in Angular! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
+🔭 I’m currently employed as a developer full-time building applications in Angular and React! All of my work related projects are NOT stored here and instead stored under a separate private GitHub account. However, some of my more fun hobby projects definitely ARE stored here and feel free to peruse through them!
 
 🌱 While I’m currently still learning the mysteries of JavaScript( and TypeScript!), I do have a bit of experience with Angular. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
