@@ -37,7 +37,7 @@ You can use the email associated with my GitHub profile or message me at:
 </div>
 &nbsp;
 <hr>
-<div>
+<div style="margin-bottom: 20px;">
 IT Security Stuff:
 </div>
 &nbsp;
