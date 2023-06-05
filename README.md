@@ -39,7 +39,7 @@ You can use the email associated with my GitHub profile or message me at:
 
 <hr>
 <div>
-IT Security Stuff:
+IT Security Extras:
 </div>
 
 <div id="badges">
