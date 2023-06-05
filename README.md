@@ -37,7 +37,9 @@ You can use the email associated with my GitHub profile or message me at:
 </div>
 &nbsp;
 <hr>
+<div>
 IT Security Stuff:
+  </div>
 <a href="https://tryhackme.com/p/kristophereaton1"><img src="https://tryhackme-badges.s3.amazonaws.com/kristophereaton1.png" alt="TryHackMe"/></a>
 
 
