@@ -35,6 +35,6 @@ You can use the email associated with my GitHub profile or message me at:
 <a href="https://www.linkedin.com/in/kristopher-eaton-developer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </div>
 </div>
-<script src="https://tryhackme.com/badge/1990806"></script>
+
 
 
