@@ -40,7 +40,7 @@ You can use the email associated with my GitHub profile or message me at:
 <div style="margin-bottom: 20px;">
 IT Security Stuff:
 </div>
-&nbsp;
+<div>
 <a href="https://tryhackme.com/p/kristophereaton1"><img src="https://tryhackme-badges.s3.amazonaws.com/kristophereaton1.png" alt="TryHackMe"/></a>
-
+</div>
 
