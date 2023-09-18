@@ -1,6 +1,6 @@
 <div>
   <img src="[https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg](https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg)" title="Code" alt="coding-image" width="100%" height="100%"/>
-<img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg" title="Code" alt='supposed to be an image here" width="100%" height="100%" />
+<img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg" title="Code" alt="supposed to be an image here" width="100%" height="100%" />
 </div>
 
 ### Howdy there 👋
