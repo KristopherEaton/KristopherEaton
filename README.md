@@ -1,6 +1,6 @@
 <div>
  
-<img src="https://www.blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg"  width="100%" height="100%" />
+<img src="https://blueetherdesign.com/wp-content/uploads/2023/05/Code-e1685382118591.jpg"  width="100%" height="100%" />
 </div>
 
 ### Howdy there 👋
