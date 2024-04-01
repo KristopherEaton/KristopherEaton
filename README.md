@@ -10,7 +10,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 🌱 While I’m always continuing to learn the mysteries of JavaScript and TypeScript, I have a bit of experience with both React and Angular. I hope to work more with Angular in the future along with implementing cloud storage solutions such as those offered by Firebase and AWS.
 
-👯 I’m looking to collaborate on anything web related. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with libraries/frameworks such as React or Angular are what interest me. Maybe Vue.js in the future?
+👯 I’m looking to collaborate on anything web related. I have a strong background in good 'ol WordPress and am looking to expand my skillset a bit. While I still enjoy building solid websites for small business owners, the creativity allowed with libraries/frameworks such as React or Angular are what interest me. Oh and now Android development has somewhat caught my attention as well!
 
 ### :hammer_and_wrench: Frameworks, Libraries, Languages and Tools :
 <div>
